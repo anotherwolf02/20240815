@@ -1,2 +1,1 @@
-Files are mostly attributable to AI.
-Some are demos from computer depositories.
+These files are intermittently uploaded when I find something interesting or useful.
